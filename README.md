@@ -1,2 +1,5 @@
-latex-cw-report
+University Coursework Report Template
 ===============
+
+
+Clone and start working.
